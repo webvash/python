@@ -21,10 +21,16 @@ print("a="+a)
 print("b="+b)
 """
 ##########start-Band Name Generator
+'''
 city=input("please enter tha name of city:\n")
 name=input("what is your dog name:\n")
 print (city+" "+name)
+'''
+##########start-Coding Exercise Data Types
 
+num=input("Enter the number:")
+numst=str(num)
+print(int(numst[0])+int(numst[1]))
 
 
 
